@@ -1,0 +1,50 @@
+[
+  {
+    "id_transacao": "W1001",
+    "data_venda": "2026-08-01",
+    "id_produto": "PROD001",
+    "quantidade": 2,
+    "valor_unitario": 89.9,
+    "canal_venda": "E-commerce"
+  },
+  {
+    "id_transacao": "W1002",
+    "data_venda": "2026-08-01",
+    "id_produto": "PROD002",
+    "quantidade": 1,
+    "valor_unitario": 120.0,
+    "canal_venda": "E-commerce"
+  },
+  {
+    "id_transacao": "W1006",
+    "data_venda": "2026-08-03",
+    "id_produto": "PROD004",
+    "quantidade": 5,
+    "valor_unitario": 45.0,
+    "canal_venda": "E-commerce"
+  },
+  {
+    "id_transacao": "W1007",
+    "data_venda": "2026-08-04",
+    "id_produto": "PROD001",
+    "quantidade": 1,
+    "valor_unitario": 89.9,
+    "canal_venda": "E-commerce"
+  },
+  {
+    "id_transacao": "W1008",
+    "data_venda": "2026-08-04",
+    "id_produto": "PROD005",
+    "quantidade": 2,
+    "valor_unitario": 210.0,
+    "canal_venda": "E-commerce"
+  },
+  {
+    "id_transacao": "W1009",
+    "data_venda": "2026-08-05",
+    "id_produto": "PROD003",
+    "quantidade": 10,
+    "valor_unitario": 15.5,
+    "canal_venda": "E-commerce"
+  }
+]

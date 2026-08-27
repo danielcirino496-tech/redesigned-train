@@ -1,0 +1,72 @@
+[
+    {
+        "cod_transacao": "W1001",
+        "data_registro": "2026-08-01",
+        "id_prod": "PROD001",
+        "quant": 2,
+        "preco_unitario": 89.9
+    },
+    {
+        "cod_transacao": "W1002",
+        "data_registro": "2026/08/01",
+        "id_prod": "PROD002",
+        "quant": 1,
+        "preco_unitario": 120.0
+    },
+    {
+        "cod_transacao": "W1003",
+        "data_registro": "02-08-2026",
+        "id_prod": "PROD001",
+        "quant": -1,
+        "preco_unitario": 89.9
+    },
+    {
+        "cod_transacao": "W1004",
+        "data_registro": "2026-08-02",
+        "id_prod": "PROD003",
+        "quant": 3,
+        "preco_unitario": null
+    },
+    {
+        "cod_transacao": "W1005",
+        "data_registro": "2026-08-03",
+        "id_prod": "PROD002",
+        "quant": 0,
+        "preco_unitario": 120.0
+    },
+    {
+        "cod_transacao": "W1006",
+        "data_registro": "2026-08-03",
+        "id_prod": "PROD004",
+        "quant": 5,
+        "preco_unitario": 45.0
+    },
+    {
+        "cod_transacao": "W1007",
+        "data_registro": "2026-08-04",
+        "id_prod": "PROD001",
+        "quant": 1,
+        "preco_unitario": 89.9
+    },
+    {
+        "cod_transacao": "W1008",
+        "data_registro": "2026/08/04",
+        "id_prod": "PROD005",
+        "quant": 2,
+        "preco_unitario": 210.0
+    },
+    {
+        "cod_transacao": "W1009",
+        "data_registro": "05-08-2026",
+        "id_prod": "PROD003",
+        "quant": 10,
+        "preco_unitario": 15.5
+    },
+    {
+        "cod_transacao": "W1010",
+        "data_registro": "2026-08-05",
+        "id_prod": "PROD002",
+        "quant": -2,
+        "preco_unitario": 120.0
+    }
+]
